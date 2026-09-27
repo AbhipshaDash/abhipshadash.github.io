@@ -1,63 +1,138 @@
-# Data Science Enthusiast
+# Abhipsha Dash
 
-#### Technical Skills: Python, Java, C/C++, HTML, MATLAB
+**Ph.D. Student in Electrical & Computer Engineering**  
+University of Delaware
+
+I am a Ph.D. student in Electrical and Computer Engineering at the University of Delaware. My research interests lie at the intersection of **machine learning, hardware security, and computer systems**, with a focus on developing secure and resilient hardware and computing systems.
+
+My broader interests include hardware security, machine learning for security, computer systems and networking, deep learning, and trustworthy AI-assisted hardware design.
+
+[GitHub](https://github.com/AbhipshaDash) · [LinkedIn](https://www.linkedin.com/in/abhipsha-dash/) · [Email](mailto:abhipsha@udel.edu)
+
+---
+
+## Research Interests
+
+- Hardware Security
+- Machine Learning for Hardware and Systems
+- Computer Systems & Networking
+- Secure and Trustworthy AI
+- Deep Learning
+
+---
 
 ## Education
-- B.Tech, Electrical and Electronics Engineering | International Institute of Information Technology, Bhubaneswar (_2021-25_)								       		
-- Higher Secondary Education (12th), CBSE	| Chinmaya Vidyalaya, New Delhi (_2021_)	 			        		
-- Highschool (10th), CBSE | Chinmaya Vidyalaya, New Delhi (_2019_)
 
-## Work Experience
-**University of Zurich, Switzerland (_1st to 19th July 2024_)**
-- Summer School attendee
-- Developed and deployed smart contracts on Ethereum, Solana, and Cardano and other blockchain platforms.
-- Analyzed and applied blockchain consensus mechanisms and cryptoeconomic models.
+**Ph.D. in Electrical & Computer Engineering**  
+University of Delaware, USA  
+*2025 – Present*
 
-**Indian Institute of Technology, Delhi, India (_23rd May 2023 to 31st July 2023_)**
-- Summer Research Intern under Professor Anurag S Rathore
-- Paper Communicated in the journal Neural Computing and Applications entitled “Exploring the Impact of Data Augmentation on Whole-Slide Image Classification: A Comparative Analysis between Original Medical Datasets and Fully Synthetic Images” Keerthiveena B., Ramteke M.K, Dash A and Rathore A.S. (Manuscript Number: NCAA-D-24-03616) (_Under review_)
-- Machine Learning based Tumor detection on WSI Images using GANs for Data Augmentation
-- Studied the impact of different aspects of data augmentation namely classic augmentation, generative adversarial networks, and diffusion models over histopathological images to detect different types of cancers.
-- Determined the degree to which synthetic histopathology images have the potential to enhance the classifiers' performance to detect cancers.
+**B.Tech. in Electrical & Electronics Engineering**  
+International Institute of Information Technology, Bhubaneswar, India  
+*2021 – 2025*
 
-**International Institute of Information Technology, Bhubaneswar, India**
-- Publication: Mishra D.P,  Dash A and Senapati R. "Vehicle-To-Grid & Grid-To-Vehicle Power Quality Improvement," 2023 IEEE 3rd International Conference on Smart Technologies for Power, Energy and Control (STPEC), Bhubaneswar, India, 2023, pp. 1-5, doi: 10.1109/STPEC59253.2023.10431016.
+---
 
-**Indian Institute of Technology, Indore, India (_2nd May 2022 to 2nd July 2022_)**
-- Summer Research Intern under Professor Vimal Bhatia
-- Learnt Tools for Natural Language Processing and Sentiment Analysis
-- [Link](https://github.com/AbhipshaDash/sentiment-analysis)
+## Research Experience
 
+### University of Delaware
+**Ph.D. Fellow** · *Aug. 2025 – Present*
 
-## Projects
-### Digit Recogniser from scratch
-[Link](https://github.com/AbhipshaDash/NN_from_scratch)
+Researching machine-learning-based approaches for hardware security and computer systems.
 
-In this project, a simple two-layer neural network was developed from scratch to classify handwritten digits from the MNIST dataset. The implementation did not utilize any high-level machine learning frameworks like TensorFlow or Keras. Instead, the network architecture and training algorithms were coded manually, allowing for a deeper understanding of the underlying mechanics of neural networks. The network was trained on the MNIST dataset, achieving a training accuracy of 85% and a testing accuracy of 84%. This project demonstrates fundamental concepts in neural network design and training, including forward propagation, backpropagation, and gradient descent.
+### Indian Institute of Technology Kharagpur
+**Research Intern** · *Jan. 2025 – May 2025*
 
-### Image Generation Using GANs on the MNIST dataset
-[Link](https://github.com/AbhipshaDash/Image_Generation_Using_GANs)
+Worked on episodic meta-learning for histopathology image classification, evaluating convolutional neural networks and Prototypical Networks under Prof. Nikita Saxena.
 
-This project involves the implementation of Generative Adversarial Networks (GANs) to generate handwritten digit images similar to those in the MNIST dataset. GANs are a powerful type of neural network architecture used for generative modeling, where the goal is to generate new data instances that resemble the training data. The project demonstrates how to build and train the process of building, training, and evaluating GANs, emphasizing their ability to create realistic data samples. 
+### Johns Hopkins University
+**Summer Research Intern** · *Mar. 2024 – Dec. 2024*
 
+Implemented Deep Operator Networks (DeepONets), Physics-Informed Neural Networks (PINNs), and Transformer-based models using JAX under Prof. Somdatta Goswami.
 
-### PM 2.5 Level Prediction Using Weather Data
-[Link](https://github.com/AbhipshaDash/D3_Fest_Web_app)
+### University of Zurich
+**Summer School Fellow** · *Jul. 2024*
 
-This project involved predicting PM 2.5 levels using historical weather data through a machine learning model deployed on Streamlit. The model, processes inputs such as temperature, pressure, rainfall, wind direction, and wind speed to provide accurate predictions of PM 2.5 levels. Users can interact with the Streamlit application to input weather parameters and instantly receive predictions, aiding in real-time air quality monitoring and decision-making. This work secured third place in the D^3 Hackathon, demonstrating its effectiveness and innovation in environmental monitoring.
+Selected for the fully funded UZH International Summer School, *Deep Dive into Blockchain*, covering consensus mechanisms, staking, automated market makers, and blockchain platforms.
 
-### Heart Disease Prediction 
-[Link](https://github.com/AbhipshaDash/Disease_Prediction)
+### Indian Institute of Technology Delhi
+**Summer Research Intern** · *May 2023 – Jul. 2023*
 
-This project implements a simple disease prediction system using Logistic Regression. The heart disease dataset is loaded from a CSV file, explored for insights, and preprocessed by separating features and the target variable. The data is then split into training and test sets. A Logistic Regression model is trained on the training set, evaluated on both training and test sets, and used to make predictions about heart disease presence based on given medical attributes.
+Investigated synthetic data augmentation for whole-slide histopathology image classification using GANs and diffusion models under Prof. Anurag S. Rathore.
 
-## EXTRACURRICULAR EXPERIENCE
+### Indian Institute of Technology Indore
+**Summer Research Intern** · *May 2022 – Jul. 2022*
 
-1. IEEE Student branch secretary 2023 (Member ID: 99231747)
-2. Google Developer Student Club (GDSC) Lead (_2023-24_)
-3. Course Series on “Data Analytics and Machine Learning in Bioprocessing Industry” organized by DBT Centre for Excellence for Biopharmaceutical Technology held at Indian Institute of Technology, New Delhi, India.(_13th- 14th December 2023_)
-4. Poster presented at  3rd International Conference on Smart Technologies for Power, Energy and Control (STPEC) held at School of Electrical Engineering, KIIT, Bhubaneswar, India.(_10th- 13th December 2023_)
-5. Summer school “ Artificial Intelligence Summer School hosted at Indraprastha Institute of Information Technology, Delhi, India in collaboration with Infosys Center for Artificial Intelligence.(_17th- 19th July 2023_)
-6. Short Term Course on “Application of ML & Deep Learning in Data Science" by NIT-Warangal, India. (_28th Feb- 4th March 2022_)
-7. Beta Microsoft Learn Student Ambassador
-8. Team lead of the Programming Society of IIIT- Bhubaneswar, India (_2023-24_)
+Developed NLP tools for sentiment analysis and text classification under Prof. Vimal Bhatia.
+
+---
+
+## Publications
+
+**K. Balraj, M. Ramteke, A. Dash, and A. S. Rathore.**  
+“Exploring the impact of data augmentation on whole-slide image classification: A comparative analysis between original medical datasets and fully synthetic images.”  
+*Multimedia Tools and Applications*, 2026.  
+DOI: 10.1007/s11042-026-21421-4
+
+**A. Dash, R. Saha, and N. Saxena.**  
+“Episodic Meta-Learning for Histopathology: CNNs vs Prototypical Networks.”  
+*Manuscript communicated to Computers in Biology and Medicine.*
+
+**D. P. Mishra, A. Dash, and R. Senapati.**  
+“Vehicle-to-Grid & Grid-to-Vehicle Power Quality Improvement.”  
+*2023 IEEE 3rd International Conference on Smart Technologies for Power, Energy and Control (STPEC)*, pp. 1–5, 2023.
+
+**D. P. Mishra, A. Dash, A. Kumar, and S. R. Salkuti.**  
+“AI-Powered Strategies for Efficient EV Energy Management.”  
+In *AI for Integrated Smart Energy Systems in EVs*, Springer, 2025.
+
+**D. P. Mishra, A. Dash, A. Kumar, and S. R. Salkuti.**  
+“AI-Driven Innovations in EV Energy Management.”  
+In *AI for Integrated Smart Energy Systems in EVs*, Springer, 2025.
+
+---
+
+## Selected Projects
+
+### 4-bit Carry Look-Ahead Adder & Custom VLSI Design
+Designed a transistor-level 4-bit carry look-ahead adder using Cadence Virtuoso. Completed schematic design, simulation, layout, DRC, and LVS verification.
+
+**Tools:** Cadence Virtuoso, Spectre, CMOS VLSI
+
+### Optimization Dynamics for Trojan Network Detection
+Developed L2-regularized logistic regression models in Julia for malicious Trojan network-traffic classification and compared GD, SGD, Momentum/Nesterov, and Adam optimization algorithms.
+
+**Tools:** Julia, Pluto.jl, Optimization, Machine Learning
+
+### PM2.5 Level Prediction Using Weather Data
+Developed and deployed a machine-learning model for PM2.5 prediction using historical weather data. The project received **3rd Place in the D³ Hackathon**.
+
+**Tools:** Python, Scikit-Learn, Streamlit
+
+---
+
+## Technical Skills
+
+**Languages:** Python, C/C++, Verilog, VHDL, Julia, HTML, CSS, MATLAB
+
+**ML / Scientific Computing:** PyTorch, TensorFlow, JAX, Keras, Scikit-Learn, NLTK
+
+**Systems & Hardware:** Linux, Git, GitHub, Cadence Virtuoso
+
+**Research Areas:** Machine Learning, Hardware Security, Computer Systems & Networking, Deep Learning, NLP
+
+---
+
+## Leadership
+
+- **Google Developer Student Club Lead**, IIIT Bhubaneswar, 2023–2024
+- **IEEE Student Branch Secretary**, IIIT Bhubaneswar, 2023–2025
+- **Microsoft Learn Student Ambassador**, IIIT Bhubaneswar, 2022–2025
+
+---
+
+## Contact
+
+**Email:** [abhipsha@udel.edu](mailto:abhipsha@udel.edu)  
+**GitHub:** [github.com/AbhipshaDash](https://github.com/AbhipshaDash)  
+**LinkedIn:** [linkedin.com/in/abhipsha-dash](https://www.linkedin.com/in/abhipsha-dash/)
