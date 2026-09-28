@@ -7,7 +7,9 @@ I am a Ph.D. student in Electrical and Computer Engineering at the University of
 
 My broader interests include hardware security, machine learning for security, computer systems and networking, deep learning, and trustworthy AI-assisted hardware design.
 
-[GitHub](https://github.com/AbhipshaDash) · [LinkedIn](https://www.linkedin.com/in/abhipsha-dash/) · [Email](mailto:abhipsha@udel.edu)
+<a href="assets/Resume_AbhipshaDash.pdf" target="_blank">
+  <button>Download Resume</button>
+</a>
 
 ---
 
@@ -36,7 +38,7 @@ International Institute of Information Technology, Bhubaneswar, India
 ## Research Experience
 
 ### University of Delaware
-**Ph.D. Fellow** · *Aug. 2025 – Present*
+**Research Assistant** · *Aug. 2025 – Present*
 
 Researching machine-learning-based approaches for hardware security and computer systems.
 
@@ -72,11 +74,6 @@ Developed NLP tools for sentiment analysis and text classification under Prof. V
 **K. Balraj, M. Ramteke, A. Dash, and A. S. Rathore.**  
 “Exploring the impact of data augmentation on whole-slide image classification: A comparative analysis between original medical datasets and fully synthetic images.”  
 *Multimedia Tools and Applications*, 2026.  
-DOI: 10.1007/s11042-026-21421-4
-
-**A. Dash, R. Saha, and N. Saxena.**  
-“Episodic Meta-Learning for Histopathology: CNNs vs Prototypical Networks.”  
-*Manuscript communicated to Computers in Biology and Medicine.*
 
 **D. P. Mishra, A. Dash, and R. Senapati.**  
 “Vehicle-to-Grid & Grid-to-Vehicle Power Quality Improvement.”  
