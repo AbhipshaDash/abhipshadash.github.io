@@ -7,10 +7,6 @@ I am a Ph.D. student in Electrical and Computer Engineering at the University of
 
 My broader interests include hardware security, machine learning for security, computer systems and networking, deep learning, and trustworthy AI-assisted hardware design.
 
-<a href="assets/Resume_AbhipshaDash.pdf" target="_blank">
-  <button>Download Resume</button>
-</a>
-
 ---
 
 ## Research Interests
